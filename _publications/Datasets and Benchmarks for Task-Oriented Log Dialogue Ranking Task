@@ -1,0 +1,12 @@
+---
+title: "Datasets and Benchmarks for Task-Oriented Log Dialogue Ranking Task"
+collection: publications
+excerpt: ''
+date: Nov 2020
+venue: 'Interspeech'
+paperurl: ''
+citation: 'Xinnuo Xu, Yizhe Zhang, Lars Liden and Sungjin Lee. "Datasets and Benchmarks for Task-Oriented Log Dialogue Ranking Task." https://interspeech2020.baai.ac.cn/poster/1341.'
+---
+Although the data-driven approaches of some recent bot building platforms make it possible for a wide range of users to easily create dialogue systems, those platforms don't offer tools for quickly identifying which log dialogues contain problems. Thus, in this paper, we (1) introduce a new task, log dialogue ranking, where the ranker places problematic dialogues higher (2) provide a collection of human-bot conversations in the restaurant inquiry task labelled with dialogue quality for ranker training and evaluation (3) present a detailed description of the data collection pipeline, which is entirely based on crowd-sourcing (4) finally report a benchmark result of dialogue ranking, which shows the usability of the data and sets a baseline for future studies.
+
+
