@@ -2,8 +2,8 @@
 title: "Guided Dialog Policy Learning without Adversarial Learning in the Loop"
 collection: publications
 excerpt: ''
-date: 7 Apr 2020
-venue: 'preprint'
+date: Nov 2020
+venue: 'EMNLP Findings'
 paperurl: ''
 citation: 'Li, Ziming, Sungjin Lee, Baolin Peng, Jinchao Li, Shahin Shayandeh, and Jianfeng Gao. "Guided Dialog Policy Learning without Adversarial Learning in the Loop." arXiv preprint arXiv:2004.03267 (2020).'
 ---
