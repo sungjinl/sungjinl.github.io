@@ -3,8 +3,8 @@ title: "Large-scale Hybrid Approach for Predicting User Satisfaction with Conver
 collection: publications
 excerpt: ''
 date: Nov 2020
-venue: 'EMNLP Findings'
-paperurl: ''
+venue: 'NeurIPS 2020, Human in the Loop Dialogue Systems Workshop'
+paperurl: 'https://arxiv.org/pdf/2006.07113.pdf'
 citation: Dookun Park, Hao Yuan, Dongmin Kim, Yinglei Zhang, Matsoukas Spyros, Young-Bum Kim, Ruhi Sarikaya, Edward Guo, Yuan Ling, Kevin Quinn, Pham Hung, Benjamin Yao, Sungjin Lee. "Large-scale Hybrid Approach for Predicting User Satisfaction with Conversational Agents." arXiv preprint arXiv:2006.07113 (2020).'
 ---
 Measuring user satisfaction level is a challenging task, and a critical component in developing large-scale conversational agent systems serving the needs of real users. An widely used approach to tackle this is to collect human annotation data and use them for evaluation or modeling. Human annotation based approaches are easier to control, but hard to scale. A novel alternative approach is to collect user's direct feedback via a feedback elicitation system embedded to the conversational agent system, and use the collected user feedback to train a machine-learned model for generalization. User feedback is the best proxy for user satisfaction, but is not available for some ineligible intents and certain situations. Thus, these two types of approaches are complementary to each other. In this work, we tackle the user satisfaction assessment problem with a hybrid approach that fuses explicit user feedback, user satisfaction predictions inferred by two machine-learned models, one trained on user feedback data and the other human annotation data. The hybrid approach is based on a waterfall policy, and the experimental results with Amazon Alexa's large-scale datasets show significant improvements in inferring user satisfaction. A detailed hybrid architecture, an in-depth analysis on user feedback data, and an algorithm that generates data sets to properly simulate the live traffic are presented in this paper.
