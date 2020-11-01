@@ -1,0 +1,11 @@
+---
+title: "Structuring latent spaces for stylized response generation"
+collection: publications
+excerpt: ''
+date: 2019
+venue: 'EMNLP'
+paperurl: 'https://www.aclweb.org/anthology/D19-1190.pdf'
+citation: Gao, X., Zhang, Y., Lee, S., Brockett, C., Galley, M., Gao, J., & Dolan, B. "Structuring latent spaces for stylized response generation." EMNLP (2019).'
+---
+Generating responses in a targeted style is a useful yet challenging task, especially in the absence of parallel data. With limited data, existing methods tend to generate responses that are either less stylized or less context-relevant. We propose StyleFusion, which bridges conversation modeling and non-parallel style transfer by sharing a structured latent space. This structure allows the system to generate stylized relevant responses by sampling in the neighborhood of the conversation model prediction, and continuously control the style level. We demonstrate this method using dialogues from Reddit data and two sets of sentences with distinct styles (arXiv and Sherlock Holmes novels). Automatic and human evaluation show that, without sacrificing appropriateness, the system generates responses of the targeted style and outperforms competitive baselines.
+[Download paper here](https://www.aclweb.org/anthology/D19-1190.pdf)
