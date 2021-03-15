@@ -5,7 +5,7 @@ excerpt: ''
 date: 2021-03-01
 venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2103.03373'
-citation: Han Li, Sunghyun Park, Aswarth Dara, Jinseok Nam, Sungjin Lee, Young-Bum Kim, Spyros Matsoukas, Ruhi Sarikaya. Neural model robustness for skill routing in large-scale conversational AI systems- A design choice exploration.
+citation: Han Li, Sunghyun Park, Aswarth Dara, Jinseok Nam, Sungjin Lee, Young-Bum Kim, Spyros Matsoukas, Ruhi Sarikaya. 'Neural model robustness for skill routing in large-scale conversational AI systems: A design choice exploration.'
 ---
 The evaluation of multi-turn dialogues remains challenging. The common approach of labeling the user satisfaction with the experience on the dialogue level does not reflect the task's difficulty. Therefore assigning the same experience score to two tasks with different complexity levels is misleading. Another approach, which suggests evaluating each dialogue turn independently, ignores each turn's long-term influence over the final user experience with dialogue. We instead develop a new method to estimate the turn-level satisfaction for dialogue, which is context-sensitive and has a long-term view. Our approach is data-driven which makes it easily personalized. The interactions between users and dialogue systems are formulated using a budget consumption setup. We assume the user has an initial interaction budget for a conversation based on the task complexity, and each dialogue turn has a cost. When the task is completed or the budget has been run out, the user will quit the interaction. We demonstrate the effectiveness of our method by extensive experimentation with a simulated dialogue platform and a realistic dialogue dataset.
 [Download paper here](https://arxiv.org/pdf/2103.03373.pdf)
