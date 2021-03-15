@@ -2,8 +2,8 @@
 title: "Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents"
 collection: publications
 excerpt: ''
-date: 2020-10-01
-venue: 'NAACL 2021'
+date: 2021-06-11
+venue: 'NAACL'
 paperurl: 'https://arxiv.org/abs/2010.11230'
 citation: Mohammad Kachuee, Hao Yuan, Young-Bum Kim, Sungjin Lee. Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents.'
 ---
