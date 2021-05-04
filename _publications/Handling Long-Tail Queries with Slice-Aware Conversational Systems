@@ -1,0 +1,11 @@
+---
+title: "Handling Long-Tail Queries with Slice-Aware Conversational Systems"
+collection: publications
+excerpt: ''
+date: 2021-04-26
+venue: 'ICLR 2021 Workshop on Weakly Supervised Learning'
+paperurl: 'https://arxiv.org/abs/2104.13216'
+citation: Cheng Wang, Sun Kim, Taiwoo Park, Sajal Choudhary, Sunghyun Park, Young-Bum Kim, Ruhi Sarikaya, Sungjin Lee. Handling Long-Tail Queries with Slice-Aware Conversational Systems.
+---
+We have been witnessing the usefulness of conversational AI systems such as Siri and Alexa, directly impacting our daily lives. These systems normally rely on machine learning models evolving over time to provide quality user experience. However, the development and improvement of the models are challenging because they need to support both high (head) and low (tail) usage scenarios, requiring fine-grained modeling strategies for specific data subsets or slices. In this paper, we explore the recent concept of slice-based learning (SBL) (Chen et al., 2019) to improve our baseline conversational skill routing system on the tail yet critical query traffic. We first define a set of labeling functions to generate weak supervision data for the tail intents. We then extend the baseline model towards a slice-aware architecture, which monitors and improves the model performance on the selected tail intents. Applied to de-identified live traffic from a commercial conversational AI system, our experiments show that the slice-aware model is beneficial in improving model performance for the tail intents while maintaining the overall performance.
+[Download paper here](https://arxiv.org/pdf/2104.13216.pdf)
