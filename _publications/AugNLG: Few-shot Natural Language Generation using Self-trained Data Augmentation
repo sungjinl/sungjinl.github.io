@@ -1,0 +1,11 @@
+---
+title: "AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation"
+collection: publications
+excerpt: ''
+date: 2021-08-02
+venue: 'ACL2021'
+paperurl: 'https://arxiv.org/abs/2103.01287'
+citation: Xinnuo Xu, Guoyin Wang, Young-Bum Kim, Sungjin Lee. AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation.
+---
+Natural Language Generation (NLG) is a key component in a task-oriented dialogue system, which converts the structured meaning representation (MR) to the natural language. For large-scale conversational systems, where it is common to have over hundreds of intents and thousands of slots, neither template-based approaches nor model-based approaches are scalable. Recently, neural NLGs started leveraging transfer learning and showed promising results in few-shot settings. This paper proposes AugNLG, a novel data augmentation approach that combines a self-trained neural retrieval model with a few-shot learned NLU model, to automatically create MR-to-Text data from open-domain texts. The proposed system mostly outperforms the state-of-the-art methods on the FewShotWoz data in both BLEU and Slot Error Rate. We further confirm improved results on the FewShotSGD data and provide comprehensive analysis results on key components of our system.
+[Download paper here](https://arxiv.org/pdf/2103.01287.pdf)
