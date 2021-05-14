@@ -3,7 +3,7 @@ title: "AugNLG: Few-shot Natural Language Generation using Self-trained Data Aug
 collection: publications
 excerpt: ''
 date: 2021-08-02
-venue: 'ACL2021'
+venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/2103.01287'
 citation: 'Xinnuo Xu, Guoyin Wang, Young-Bum Kim, Sungjin Lee. AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation.'
 ---
