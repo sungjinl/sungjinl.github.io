@@ -3,7 +3,7 @@ title: "Learning Slice-Aware Representations with Mixture of Attentions"
 collection: publications
 excerpt: ''
 date: 2021-08-02
-venue: 'ACL2021 Findings'
+venue: 'ACL Findings'
 paperurl: 'https://arxiv.org/abs/2103.01287'
 citation: Cheng Wang, Sungjin Lee, Sunghyun Park, Han Li, Young-Bum Kim, Ruhi Sarikaya. Learning Slice-Aware Representations with Mixture of Attentions.
 ---
