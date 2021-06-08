@@ -4,8 +4,8 @@ collection: publications
 excerpt: ''
 date: 2021-08-02
 venue: 'ACL Findings'
-paperurl: 'https://arxiv.org/abs/2103.01287'
+paperurl: 'https://arxiv.org/abs/2106.02363'
 citation: Cheng Wang, Sungjin Lee, Sunghyun Park, Han Li, Young-Bum Kim, Ruhi Sarikaya. Learning Slice-Aware Representations with Mixture of Attentions.
 ---
 The real-world machine learning systems are achieving remarkable performance in terms of coarse-grained metrics like overall accuracy and F1 score. However, model improvement and development often require fine-grained high-quality modeling on individual data subsets (slices), for instance, the data slices where models have unsatisfied results. In practice, it has significant meaning for developing such models that can pay extra attention to critical or interested slices, in the premise of retaining original overall performance. This work extends the recent slice-based learning (SBL) with a mixture of attentions (MoA) to learn slice-aware dual attentive representations. We empirically show that the MoA outperforms baseline method as well as original SBL on monitored slices with two natural language understanding (NLU) tasks.
-[Download paper here](https://arxiv.org/pdf/2103.01287.pdf)
+[Download paper here](https://arxiv.org/pdf/2106.02363.pdf)
